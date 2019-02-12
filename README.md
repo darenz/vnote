@@ -3,7 +3,9 @@
 
 ### 安装：
 `git clone git@github.com:darenz/vnote.git`
+
 `cd vnote`
+
 `source install.sh`
 
 ### 功能：
